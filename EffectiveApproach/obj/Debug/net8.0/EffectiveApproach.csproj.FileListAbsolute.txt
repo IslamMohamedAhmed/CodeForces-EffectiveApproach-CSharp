@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\bin\Debug\net8.0\EffectiveApproach.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\bin\Debug\net8.0\EffectiveApproach.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\bin\Debug\net8.0\EffectiveApproach.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\bin\Debug\net8.0\EffectiveApproach.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\bin\Debug\net8.0\EffectiveApproach.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\refint\EffectiveApproach.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\EffectiveApproach.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\EffectiveApproach\EffectiveApproach\obj\Debug\net8.0\ref\EffectiveApproach.dll
